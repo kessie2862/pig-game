@@ -11,6 +11,6 @@ chooses to hold, then the total number of dice rolled is added to their global s
 ![Dice](https://user-images.githubusercontent.com/97234029/158227246-b1c71103-54c3-42b0-8b00-30f3bd960f85.jpg)
 
 ##
-If a player rolls a one, they loses their current score  and it will now be the turn of the opponent player.
+If a player rolls a 1, they lose their current score  and it will now be the turn of the opponent player.
 
 ![dice1](https://user-images.githubusercontent.com/97234029/158228332-420508a8-9fb9-498c-8c10-2f0711c3e429.jpg)
