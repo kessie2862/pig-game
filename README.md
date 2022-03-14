@@ -14,3 +14,6 @@ chooses to hold, then the total number of dice rolled is added to their global s
 If a player rolls a 1, they lose their current score  and it will now be the turn of the opponent player.
 
 ![dice1](https://user-images.githubusercontent.com/97234029/158228332-420508a8-9fb9-498c-8c10-2f0711c3e429.jpg)
+
+##
+The first player to reach 100 ponts wins the game and then the game may be restarted.
