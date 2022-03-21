@@ -1,6 +1,6 @@
-## Pig-Game
+## Pig-Game.
 
-Pig game is a very simple jeopardy dice game in which two players race to reach 100 points. 
+#### Pig game is a very simple jeopardy dice game in which two players race to reach 100 points. 
 
 ![pig game](https://user-images.githubusercontent.com/97234029/158071638-731d7dcf-7d0f-4314-b447-c0ef41da9259.jpg)
 
