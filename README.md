@@ -15,6 +15,6 @@ If a player rolls a 1, they lose their current score  and it will now be the tur
 ![dice1](https://user-images.githubusercontent.com/97234029/158228332-420508a8-9fb9-498c-8c10-2f0711c3e429.jpg)
 
 ##
-The first player to reach 100 ponts wins the game and then the game may be restarted.
+The first player to reach 100 ponts wins the game and then the game may be .
 
 ![winner](https://user-images.githubusercontent.com/97234029/158229452-11ecf1d7-45d6-4e0c-af50-421597108be4.jpg)
